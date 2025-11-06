@@ -26,5 +26,6 @@
         "**/Logs/**": true,
         "**/Build/**": true
     },
-    "dotnet.defaultSolution": "Unity-AlembicToVATForked.sln"
+    "dotnet.defaultSolution": "Unity-AlembicToVATForked.sln",
+    "dotrush.roslyn.projectOrSolutionFiles": []
 }
